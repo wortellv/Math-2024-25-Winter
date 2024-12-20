@@ -1,4 +1,4 @@
-1. The general equation of a sphere with center \((h, k, l)\) and radius \(r\) is:
+1)  The general equation of a sphere with center \((h, k, l)\) and radius \(r\) is:
 
 $$
 (x - h)^2 + (y - k)^2 + (z - l)^2 = r^2
@@ -21,7 +21,7 @@ $$
 $$
 
 
-2.  To determine if the two spheres with equations 
+2)  To determine if the two spheres with equations 
 
 $$
 x^2 + y^2 + z^2 = 1
@@ -51,7 +51,7 @@ which is a contradiction.
 
 
 
-3. To find the curve of intersection between the two spheres:
+3)  To find the curve of intersection between the two spheres:
 
 1. Equations of the spheres:
    - Sphere 1: $x^2 + y^2 + z^2 = 1$
@@ -101,7 +101,7 @@ which is a contradiction.
    $$
 
 
-4. To find the equation of the tangent plane to the paraboloid 
+4) To find the equation of the tangent plane to the paraboloid 
 
 $$
 z = (x-1)^2 + y^2 + 1
