@@ -488,6 +488,7 @@ $$
 $$
 ![alt text](image-11.png)
 
+
 # Compute the Limit
 
 We aim to compute:
