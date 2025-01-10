@@ -1060,7 +1060,7 @@ $$
 At \(t = 2\), the velocity and acceleration of the particle are:
 
 - **Velocity**: \(V(2) = 6\)
-- **Acceleration**: \(a(2) = 6\)
+- **Acceleration**: \(a(2) = 6\)  .
 
 
 
