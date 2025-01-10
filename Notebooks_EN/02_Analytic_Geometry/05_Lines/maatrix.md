@@ -6,19 +6,23 @@ Let \( f(x) = 3x - 1 \) and \( g(x) = \sqrt{x} \). We compute:
 
 ### 1. \( f(g(x)) \)
 Substitute \( g(x) = \sqrt{x} \) into \( f(x) = 3x - 1 \):
+
 $$
 f(g(x)) = f(\sqrt{x}) = 3(\sqrt{x}) - 1 = 3\sqrt{x} - 1
 $$
 
 ---
 
-### 2. \( g(f(x)) \)
-Substitute \( f(x) = 3x - 1 \) into \( g(x) = \sqrt{x} \):
+### 2. Compositions $g(f(x))$
+
+Substitute  $f(x) = 3x - 1$ into $g(x) = \sqrt{x}$:
+
 $$
 g(f(x)) = g(3x - 1) = \sqrt{3x - 1}
 $$
 
-**Domain Constraint**: For \( g(f(x)) \) to be valid, we require \( 3x - 1 \geq 0 \):
+**Domain Constraint**: For $g(f(x))$ to be valid, we require $3x - 1 \geq 0$:
+
 $$
 3x \geq 1 \implies x \geq \frac{1}{3}
 $$
